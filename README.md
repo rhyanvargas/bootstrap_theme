@@ -1,2 +1,2 @@
-# Bootstrap2Wordpress
-A responsive, mobile-first custom-built website using the Bootstrap framework. Coded in Coda 2
+# bootstrap_theme
+Personal Exploration of bootstrap by building a responsive, mobile-first static website theme.
